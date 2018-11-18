@@ -1,0 +1,10 @@
+pyzmq
+mypy
+matplotlib
+torch
+gym
+tqdm
+numpy
+Pillow
+scipy
+tensorboardX
